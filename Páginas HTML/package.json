@@ -1,0 +1,11 @@
+{
+  "name": "atividade02",
+  "version": "1.0.0",
+  "description": "Atividade dois da aula prática de HTML",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "author": "Wilhams Gomes",
+  "license": "ISC"
+}
